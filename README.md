@@ -1,5 +1,5 @@
 ### तो चलीये कोडिंग करते है| 👋
-![Abhishek Bhalerao](https://img.shields.io/badge/ABHISHEK BHALERAO-APPLICATION DEVELOPER-orange)
+![Abhishek Bhalerao](https://img.shields.io/badge/ABHISHEK%20BHALERAO-APPLICATION%20DEVELOPER-orange)
 ![Twitter](https://img.shields.io/twitter/follow/ab_appdev)]
 ![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
 ![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)

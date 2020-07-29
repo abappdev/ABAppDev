@@ -1,6 +1,6 @@
-### Hi there 👋
+### तो चलीये कोडिंग करते है| 👋
 ![Abhishek Bhalerao](https://img.shields.io/badge/AB-AppDev-orange)
-[![Twiiter](https://img.shields.io/twitter/follow/ab_appdev?label=AB%20AppDev&style=social)](https://twitter.com/home)
+[![Twiiter](https://img.shields.io/twitter/follow/ab_appdev?label=AB%20AppDev&style=social)](https://twitter.com/ab_appdev)
 <!--
 **AB-AppDev/AB-AppDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

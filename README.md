@@ -1,7 +1,7 @@
 ### तो चलीये कोडिंग करते है| 👋
-![Abhishek Bhalerao](https://img.shields.io/badge/ABHISHEK%20BHALERAO-APPLICATION%20DEVELOPER-orange)
+![Abhishek Bhalerao](https://img.shields.io/badge/ABAppDev-Official-orange)
+![](https://img.shields.io/github/followers/AB-AppDev)
 ![Twitter](https://img.shields.io/twitter/follow/ab_appdev)]
-![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
 ![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
 ![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
 ![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)

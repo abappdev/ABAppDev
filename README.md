@@ -1,8 +1,10 @@
 ### तो चलीये कोडिंग करते है| 👋
 ![Abhishek Bhalerao](https://img.shields.io/badge/AB-AppDev-orange)
-![Twiiter](https://img.shields.io/twitter/follow/ab_appdev?label=AB%20AppDev&style=social)]
-[![Twiiter](https://img.shields.io/twitter/follow/ab_appdev?label=AB%20AppDev&style=social)](https://twitter.com/ab_appdev)
-
+![Twitter](https://img.shields.io/twitter/follow/ab_appdev)]
+![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
+![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
+![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
+![](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
 
 <!--
 **AB-AppDev/AB-AppDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

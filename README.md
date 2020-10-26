@@ -1,6 +1,6 @@
 ### तो चलीये कोडिंग करते है| 👋
 ![Abhishek Bhalerao](https://img.shields.io/badge/ABAppDev-Official-orange)
-![Github](https://img.shields.io/github/followers/AB-AppDev)
+![Github](https://img.shields.io/github/followers/ABAppDev)
 ![Twitter](https://img.shields.io/twitter/follow/ab_appdev)]
 ![Reddit](https://img.shields.io/reddit/user-karma/link/AB-AppDev)
 

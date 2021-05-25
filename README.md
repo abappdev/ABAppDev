@@ -1,8 +1,12 @@
 # Abhishek Bhalerao
 
+
    >I am a certified android app developer, tech-savvy, Highly passionate about UI/UX in the software and web field. I also like to learn about new technology. Currently pursuing computer engineering and along with this, I have built few application projects by myself and some of them are available on the Play Store too. Shortly, I ❤️ Coding
-   
-   <div>
+        
+
+
+<div>
+   <hr>
    
    ## ◙ Plus Skills
    
@@ -26,10 +30,12 @@
    [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/ab.appdevtm/)
    [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/its.abappdev/)
    </div>
-      <hr>
+   
    <div>
+   <hr>
    
    ## ◙ Statistics
+   
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF">
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABAppDev&layout=compact">
    </div>

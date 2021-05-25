@@ -25,7 +25,7 @@
 [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/ab.appdevtm/)
 [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/its.abappdev/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABAppDev&layout=compact)
 
 ## तो चलीये कोडिंग करते है| 👋
 -XoX-

@@ -5,6 +5,7 @@
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF">
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
 
 ## Plus Skills
 ![](https://img.shields.io/badge/-Java-E95420?style=flat-square&logo=Java&logoColor=white)

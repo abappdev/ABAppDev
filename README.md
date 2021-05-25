@@ -2,11 +2,17 @@
 
 >I am a certified android app developer, tech-savvy, Highly passionate about UI/UX in the software and web field. I also like to learn about new technology. Currently pursuing computer engineering and along with this, I have built few application projects by myself and some of them are available on the Play Store too. Shortly, I ❤️ Coding
 
-<div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF">
-</div>
 
-## Plus Skills
+
+
+
+
+
+
+<table>
+    <td>
+  
+  ## Plus Skills
 ![](https://img.shields.io/badge/-Java-E95420?style=flat-square&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
@@ -25,10 +31,20 @@
 [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/ab.appdevtm/)
 [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/its.abappdev/)
 
-
-<div>
+      
+  </td>
+    <td>
+        <tr>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF">
+        </tr>
+        <tr>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABAppDev&layout=compact">
-</div>
+        </tr>
+    </td>
+</table>
+
+
+
 
 ## तो चलीये कोडिंग करते है| 👋
 -XoX-

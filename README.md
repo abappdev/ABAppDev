@@ -6,9 +6,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF">
 </div>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
-
 ## Plus Skills
 ![](https://img.shields.io/badge/-Java-E95420?style=flat-square&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
@@ -27,6 +24,8 @@
 [![](https://img.shields.io/badge/-@AB%20AppDev-F58025?style=flat-rounded&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/13472383/ab-appdev)
 [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/ab.appdevtm/)
 [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/its.abappdev/)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
 
 ## तो चलीये कोडिंग करते है| 👋
 -XoX-

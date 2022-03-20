@@ -30,8 +30,8 @@
    [![](https://img.shields.io/badge/-@ABAppDev-0A66C2?style=flat-rounded&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ab-appdev)
    [![](https://img.shields.io/badge/-@Abhishek%20Bhalerao-F56040?style=flat-rounded&logo=GMail&logoColor=white)](mailto:abhishekbhalerao.appdev@gmail.com)
    [![](https://img.shields.io/badge/-@AB%20AppDev-F58025?style=flat-rounded&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/13472383/ab-appdev)
-   [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/ab.appdevtm/)
-   [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/its.abappdev/)
+   [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/abappdev/)
+   [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/abhishek_b04/)
    </div>
    
    <div>

@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width:100%;'></td>
-    <td><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev" alt="abhishek bhalerao abappdev"  style='width: 100%;'/></td>
+    <td><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=light" alt="abhishek bhalerao abappdev"  style='width: 100%;'/></td>
   </tr>
 </table>
 

@@ -39,7 +39,7 @@
    
    ## ◙ Statistics
    
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width: 300px;'>
-   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=dark" alt="abhishek bhalerao abappdev"  style='width: 300px;'/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width: 50%;'>
+   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=dark" alt="abhishek bhalerao abappdev"  style='width: 50%;'/>
    <br/>
    </div>

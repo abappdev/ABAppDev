@@ -1,12 +1,11 @@
 # Abhishek Bhalerao
 
 #### 📃 About me
-- 👨🏻‍🔬  &nbsp;Android Developement Lead, Google Developers Student's Club, MET Institute of Engineering, Nashik
-- 👨🏻‍💻  &nbsp;Student of Computer Engineering.
-- 👨🏻‍🔬  &nbsp;Freelance Android Application Developer
-   >I am a certified android app developer, tech-savvy, Highly passionate about UI/UX in the software and web field. I also like to learn about new technology. Currently pursuing computer engineering and along with this, I have built few application projects by myself and some of them are available on the Play Store too. Shortly, I ❤️ Coding
-        
 
+- 👨🏻‍🔬 &nbsp;Android Developement Lead, Google Developers Student's Club, MET Institute of Engineering, Nashik
+- 👨🏻‍💻 &nbsp;Student of Computer Engineering.
+- 👨🏻‍🔬 &nbsp;Freelance Android Application Developer
+  > I am a certified android app developer, tech-savvy, Highly passionate about UI/UX in the software and web field. I also like to learn about new technology. Currently pursuing computer engineering and along with this, I have built few application projects by myself and some of them are available on the Play Store too. Shortly, I ❤️ Coding
 
 <div>
    <hr>
@@ -37,13 +36,13 @@
    <div>
    
    ## ◙ Statistics
-   
-   <hr/>
-   <td>
-   <tr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width:46%;'><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=dark" alt="abhishek bhalerao abappdev"  style='width: 46%;'/>
-         </tr>
-   <tr>
-   </tr>
-</td>
-   </div>
+     <table>
+        <td>
+            <tr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width:46%;'>
+            </tr>
+            <tr>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=dark" alt="abhishek bhalerao abappdev"  style='width: 46%;'/>
+            </tr>
+        </td>
+    </table>

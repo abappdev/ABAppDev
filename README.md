@@ -31,12 +31,10 @@
    [![](https://img.shields.io/badge/-@AB%20AppDev-F58025?style=flat-rounded&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/13472383/ab-appdev)
    [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/ab.appdevworks/)
    [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/me.abhishekbhalerao/)
-   </div>
    
-   <div>
    
    ## ◙ Statistics
-     <table>
+ <table>
         <td>
             <tr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width:46%;'>
@@ -46,3 +44,5 @@
             </tr>
         </td>
     </table>
+
+   </div>

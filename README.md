@@ -34,19 +34,20 @@
    
    
    ## ◙ Statistics
-         <table>
+ <table>
+        <td>
             <tr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width:46%;'>
             </tr>
             <tr>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=dark" alt="abhishek bhalerao abappdev"  style='width: 46%;'/>
             </tr>
-        </table>
-  
-        <table>
+        </td>
+        <td>
         <tr>
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABAppDev&layout=compact"  style='width: 45%;'>
         </tr>
-        </table>
-  
+        </td>
+    </table>
+
    </div>

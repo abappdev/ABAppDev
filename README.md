@@ -39,6 +39,6 @@
    
    ## ◙ Statistics
    
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF">
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABAppDev&layout=compact">
    </div>

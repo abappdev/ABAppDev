@@ -50,4 +50,17 @@
         </td>
     </table>
 
+  
+  
+<table>
+  <tr>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width:46%;'></td>
+    <td><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=dark" alt="abhishek bhalerao abappdev"  style='width: 46%;'/></td>
+  </tr>
+</table>
+
+<div align="center">
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABAppDev&layout=compact"  style='width: 45%;'></p>
+  </div>
+  
    </div>

@@ -34,6 +34,7 @@
    
    
    ## ◙ Statistics
+  
  <table>
         <td>
             <tr>
@@ -44,5 +45,4 @@
             </tr>
         </td>
     </table>
-
    </div>

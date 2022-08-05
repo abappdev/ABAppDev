@@ -2,9 +2,9 @@
 
 #### 📃 About me
 
-- 👨🏻‍🔬 &nbsp;Android Developement Lead, Google Developers Student's Club, MET Institute of Engineering, Nashik
+- 👨🏻‍🔬 &nbsp;Android Application & Software Developer
+- 👨🏻‍🔬 &nbsp;Former Android Developement Lead, Google Developers Student's Club, MET Institute of Engineering, Nashik
 - 👨🏻‍💻 &nbsp;Student of Computer Engineering.
-- 👨🏻‍🔬 &nbsp;Freelance Android Application Developer
   > I am a certified android app developer, tech-savvy, Highly passionate about UI/UX in the software and web field. I also like to learn about new technology. Currently pursuing computer engineering and along with this, I have built few application projects by myself and some of them are available on the Play Store too. Shortly, I ❤️ Coding
 
 <div>
@@ -25,12 +25,13 @@
    
    ## ◙ Get Connected With Me
    
-   [![](https://img.shields.io/badge/-@ABAppDev-181717?style=flat-rounded&logo=Github&logoColor=white)](https://github.com/ab-appdev)
-   [![](https://img.shields.io/badge/-@ABAppDev-0A66C2?style=flat-rounded&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ab-appdev)
-   [![](https://img.shields.io/badge/-@Abhishek%20Bhalerao-F56040?style=flat-rounded&logo=GMail&logoColor=white)](mailto:abhishekbhalerao.appdev@gmail.com)
+   [![](https://img.shields.io/badge/-@ABAppDev-181717?style=flat-rounded&logo=Github&logoColor=white)](https://github.com/abappdev)
+   [![](https://img.shields.io/badge/-@ABAppDev-0A66C2?style=flat-rounded&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abappdev)
+   [![](https://img.shields.io/badge/-@ABAppDev-0A66C2?style=flat-rounded&logo=Twitter&logoColor=white)](https://twitter.com/abappdev)
+   [![](https://img.shields.io/badge/-@Abhishek%20Bhalerao-FFFFFF?style=flat-rounded&logo=GMail&logoColor=white)](mailto:abhishekbhalerao.appdev@gmail.com)
    [![](https://img.shields.io/badge/-@AB%20AppDev-F58025?style=flat-rounded&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/13472383/ab-appdev)
-   [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/ab.appdevworks/)
-   [![](https://img.shields.io/badge/-@Personal-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/me.abhishekbhalerao/)
+   [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/abappdev/)
+   [![](https://img.shields.io/badge/-@Abhishek%20Bhalerao-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/me.abhishekbhalerao/)
    
    
    ## ◙ Statistics

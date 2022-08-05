@@ -27,7 +27,7 @@
    
    [![](https://img.shields.io/badge/-@ABAppDev-181717?style=flat-rounded&logo=Github&logoColor=white)](https://github.com/abappdev)
    [![](https://img.shields.io/badge/-@ABAppDev-0A66C2?style=flat-rounded&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abappdev)
-   [![](https://img.shields.io/badge/-@ABAppDev-0A66C2?style=flat-rounded&logo=Twitter&logoColor=white)](https://twitter.com/abappdev)
+   [![](https://img.shields.io/badge/-@ABAppDev-2196F3?style=flat-rounded&logo=Twitter&logoColor=white)](https://twitter.com/abappdev)
    [![](https://img.shields.io/badge/-@Abhishek%20Bhalerao-F44336?style=flat-rounded&logo=GMail&logoColor=white)](mailto:abhishekbhalerao.appdev@gmail.com)
    [![](https://img.shields.io/badge/-@AB%20AppDev-F58025?style=flat-rounded&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/13472383/ab-appdev)
    [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/abappdev/)

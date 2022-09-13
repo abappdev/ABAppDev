@@ -2,6 +2,7 @@
 
 #### 📃 About me
 
+- 👨🏻‍🔬 &nbsp;Trainee Engineer at Accops System PVT. LTD.
 - 👨🏻‍🔬 &nbsp;Android Application & Software Developer
 - 👨🏻‍🔬 &nbsp;Former Android Developement Lead, Google Developers Student's Club, MET Institute of Engineering, Nashik
 - 👨🏻‍💻 &nbsp;Student of Computer Engineering.

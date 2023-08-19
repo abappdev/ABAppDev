@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abappdev/abappdev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abappdev/ABAppDev/master/output/snake.svg" alt="Snake animation" />
 
 ###

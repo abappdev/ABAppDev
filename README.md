@@ -1,55 +1,71 @@
-# Abhishek Bhalerao
+<p align="left">Hello World!! I am Abhishek Bhalerao</p>
 
-#### 📃 About me
+###
 
-- 👨🏻‍🔬 &nbsp;Software Engineer at Accops System PVT. LTD.
-- 👨🏻‍🔬 &nbsp;Android Application & Software Developer
-- 👨🏻‍🔬 &nbsp;Former Android Developement Lead, Google Developers Student's Club, MET Institute of Engineering, Nashik
-- 👨🏻‍💻 &nbsp;Student of Computer Engineering.
-  > I am a certified android app developer, tech-savvy, Highly passionate about UI/UX in the software and web field. I also like to learn about new technology. Currently pursuing computer engineering and along with this, I have built few application projects by myself and some of them are available on the Play Store too. Shortly, I ❤️ Coding
+<p align="left">👨🏻‍🔬  Software Engineer at Accops System PVT. LTD.<br>👨🏻‍🔬  Android Application & Software Developer<br>👨🏻‍🔬  Former Android Developement Lead, Google Developers Student's Club, MET Institute of Engineering, Nashik<br><br>Passionate and driven software engineer with expertise in Java, C, C++, UI/UX design, and Flutter. Skilled in developing robust and efficient software solutions, optimizing code performance, and creating visually appealing user interfaces.</p>
 
-<div>
-   <hr>
-   
-   ## ◙ Plus Skills
-   
-   ![](https://img.shields.io/badge/-Java-DD2C00?style=for-the-badge&logo=Java&logoColor=white)
-   ![](https://img.shields.io/badge/-Kotlin-311B92?style=for-the-badge&logo=Kotlin&logoColor=white)
-   ![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-   ![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
-   ![](https://img.shields.io/badge/-VSCode-24A4EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=fff)
-   ![](https://img.shields.io/badge/-Intellij%20IDEA%20Community-000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white)
-   ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-   ![](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-   ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=Mysql&logoColor=white)
-   ![](https://img.shields.io/badge/-Firebase-FFA000?style=for-the-badge&logo=Firebase&logoColor=white)
-   
-   ## ◙ Get Connected With Me
-   
-   [![](https://img.shields.io/badge/-@ABAppDev-181717?style=flat-rounded&logo=Github&logoColor=white)](https://github.com/abappdev)
-   [![](https://img.shields.io/badge/-@ABAppDev-0A66C2?style=flat-rounded&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abappdev)
-   [![](https://img.shields.io/badge/-@ABAppDev-2196F3?style=flat-rounded&logo=Twitter&logoColor=white)](https://twitter.com/abappdev)
-   [![](https://img.shields.io/badge/-@Abhishek%20Bhalerao-F44336?style=flat-rounded&logo=GMail&logoColor=white)](mailto:abhishekbhalerao.appdev@gmail.com)
-   [![](https://img.shields.io/badge/-@AB%20AppDev-F58025?style=flat-rounded&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/13472383/ab-appdev)
-   [![](https://img.shields.io/badge/-@AB%20AppDev%20TM-5851DB?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/abappdev/)
-   [![](https://img.shields.io/badge/-@Abhishek%20Bhalerao-E1306C?style=flat-rounded&logo=Instagram&logoColor=white)](https://www.instagram.com/me.abhishekbhalerao/)
-   
-   
-   ## ◙ Statistics
-   
-<table>
-  <tr>
-    <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ABAppDev&show_icons=true&hide_border=false&icon_color=2962FF&title_color=2962FF"  alt="abhishek bhalerao abappdev" style='width:100%;'>
-    </td>
-    <td>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abappdev&theme=light" style='width:100%;'>
-    </td>
-  </tr>
-</table>
+###
 
 <div align="center">
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABAppDev&layout=compact"  style='width: 45%;'></p>
-  </div>
-  
-   </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=abappdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abappdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">Technologies I am currently working with are as</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<p align="left">You can also connect with me with below social media handles</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/abappdev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/abappdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC7vHelqJSFMrFOGMoWVDGUw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/abappdev/abappdev/output/snake.svg" alt="Snake animation" />
+
+###
